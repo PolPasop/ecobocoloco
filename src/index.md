@@ -1,12 +1,13 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Eco Boco Loco
+metaTitle: Vitaminé votre peau à l'intérieur comme à l'extérieur
+metaDesc: Notre peau peau tout comme notre orgnanisme a besoin de vitamines, de
+  micro-nutriments et acides aminés essentiels à son bon fonctionnement. Ici
+  vous trouverez de quoi booster votre peau de l'intérieur tout comme à
+  l'extérieur.
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
-
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Notre peau tout comme notre organisme a besoin de vitamines et de micro-nutriments essentiels à son bon fonctionnement. Mon intention est de vous donner des pistes pour prendre soin de votre peau en partant de l'intérieur pour que ce soit visible à l'extérieur. Ici vous trouverez de quoi booster votre peau avec des vitamines reconnues pour leur bienfaits.
