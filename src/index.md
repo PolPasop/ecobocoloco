@@ -2,8 +2,8 @@
 layout: home
 title: Eco Boco Loco
 metaTitle: Vitaminé votre peau à l'intérieur et à l'extérieur
-metaDesc: Ici vous trouverez de quoi booster votre peau de l'intérieur tout
-  comme à l'extérieur.
+metaDesc: Ici vous trouverez de quoi booster votre peau de l'intérieur comme à
+  l'extérieur.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
