@@ -14,3 +14,5 @@ Par contre, pour nous, les hypersensibles au gluten, il n'est pas possible d'ide
 Pour ma part, durant 7 ans j'ai avalé des médicaments pour le reflux gastrique tels que les anti-acides et inhibiteurs de la pompe à protons. J'ai également subi 3 gastroscopies qui n'expliquait pas mon état. Autant d'années où je me sentais épuisée et balonée après mes repas où ma peau était hyperéactive et brulait. J'ai aussi développé une rosacée des suites de cette hyperactivité. Parce que ce qui se passe à l'intérieur se reflète à l'extérieur. Plus le temps passait plus les médicaments ont fini par ne plus faire effet et l'opération me pendait au nez...
 
 C'est alors que mon amoureux m'a fait lire des publications qui traitait des effets néfastes du gluten moderne sur notre organisme. Et, l'arret pur et dur fut une délivrance pour mon corps!
+
+J'ai commencé à me sentir plus légère, moins gonflée et surtout plus éveillée. Au bout d'une semaine, le reflux a presque disparu. Normal, ne mangeant plus de gluten, mon transit s'est vu amélioré, je digérais convenablement et mon estomac a commencé à se désacidifier.
