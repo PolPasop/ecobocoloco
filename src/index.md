@@ -8,4 +8,4 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-Ici pas de complexes, juste de la simplicité, des pistes, des solutions et surtout de bons nutriments pour ton corps et ta peau. Allez viens installes-toi confortablement et blablatons sur ce qui pourrait te faire du bien.
+Ici pas de complexes, juste de la simplicité, des pistes, des solutions et surtout de bons nutriments pour le corps et la peau. Allez viens installes-toi confortablement et blablatons sur ce qui pourrait te faire du bien.
