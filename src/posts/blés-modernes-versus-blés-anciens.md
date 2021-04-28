@@ -27,4 +27,6 @@ Sans même le savoir, nous mangeons des blés modernes mûris artificiellement, 
 
 Alors, honnêtement, je me pose la question suivante…Est-ce le blé le coupable ou le haut taux de pesticides avalés journalièrement ?
 
-Osez demander à votre boulanger d'où provient la farine qu'il emploie? Est-elle avec des additifs? Et si vous ne voulez pas vous casser la tête, optez pour une farine biologique.
+Osez demander à votre boulanger d'où provient la farine qu'il emploie? Prenez le temps de lire les étiquettes des produits. Et si vous ne voulez pas vous casser la tête, optez pour une farine biologique. Consommez aussi un maximum de produits bruts bio. 
+
+Votre santé, votre corps et votre peau vous diront merci ;)
