@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: La peau
-metaTitle: Vitaminer sa peau avec les actifs
+metaTitle: Vitaminez sa peau avec les actifs
 metaDesc: La peau a besoin de vitamines et micros-nutriments pour avoir une
   barrière cutanée en bon état de fonctionnement. Cela passe par l'assiette
   autant que par de bons cosmétiques vitaminés.s
